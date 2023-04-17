@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: simion
+Version: 0.0.1
+Summary: SIMION Helper python package
+Home-page: UNKNOWN
+Author: Thomas Maynadié
+Author-email: maynadie.t@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT
+Classifier: Operating System :: Unix
+Classifier: Intended Audience :: Science/Research
+
+UNKNOWN
+
